@@ -1,5 +1,6 @@
 {
     "name": "mike/sia-lab7",
+    "author": "Paul Richard Calma <calma.paulrichard@student.auf.edu.ph>",
     "require": {
         "bramus/router": "^1.6"
     }
