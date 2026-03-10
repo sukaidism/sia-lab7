@@ -1,7 +1,9 @@
 <?php
 namespace App\Controllers;
 
-class CatController
+use App\Models\CatModel;
+
+class CatsController
 {
     private $model;
 
